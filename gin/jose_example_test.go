@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	krakendjose "github.com/devopsfaith/krakend-jose"
 	"github.com/gin-gonic/gin"
+	krakendjose "github.com/instill-ai/krakend-jose"
 	"github.com/luraproject/lura/config"
 	"github.com/luraproject/lura/logging"
 	"github.com/luraproject/lura/proxy"
